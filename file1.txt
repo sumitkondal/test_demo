@@ -1,1 +1,3 @@
 com1 local
+com2 local
+com3 local
