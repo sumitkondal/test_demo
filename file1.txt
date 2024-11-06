@@ -5,3 +5,5 @@ this is 4th line from xyz
 version 2
 
 version 3
+
+com local c2
